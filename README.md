@@ -1,4 +1,4 @@
-# Adaptive-Regenerative-Breaking-System
+# Regenerative-Breaking-System
 This projects helps to achieve adaptive regeneration in EV's to maximize energy recovery and prevent the safety risks
 
 We have two sketches for two arduino uno boards 
@@ -22,4 +22,5 @@ Motors
 Relays
 MPU6050
 Led's
+
 
